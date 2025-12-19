@@ -1,0 +1,8 @@
+
+{
+  "name": "DocGuard AI",
+  "description": "An AI-powered document risk and compliance analyzer designed for small businesses to understand legal contracts without the jargon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
